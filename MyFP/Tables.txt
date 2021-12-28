@@ -1,0 +1,9 @@
+
+[dbo].[BOOKS]
+[dbo].[BOOKCOPIES]
+[dbo].[BOOKLOANS]
+[dbo].[BOOKLOCATIONS]
+[dbo].[BOOKSTATS]
+[dbo].[BOOKSTEXT]
+[dbo].[BOOKSUBJECTS]
+[dbo].[BOOKTYPES]
